@@ -7,4 +7,4 @@
 - Website: https://vishalbehl.github.io/Vishal-Behl/
 
 
-Link to the Website: https://vishalbehl.github.io/vishalbehl1/
+Link to the Website: https://vishalbehl.ml
